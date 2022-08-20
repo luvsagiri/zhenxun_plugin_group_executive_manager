@@ -1,0 +1,2 @@
+# zhenxun_plugin_group_executive_manager
+真寻群管插件，可设置代理群管
